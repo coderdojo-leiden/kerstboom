@@ -6,8 +6,6 @@ In deze opdracht gaan we een 3D kerstboom ontwerpen in BlocksCAD.
 
 Voor het ontwerpen van 3D objecten ga je in een browser naar <a href="https://www.blockscad3d.com/editor/" target="_blank">BlocksCAD</a>.
 
-Als je nog niet eerder met BlocksCAD hebt gewerkt, dan is het misschien verstandig om eerst een van de opdrachten te doen die bedacht zijn door de [Raspberry Pi Foundation](https://coderdojo-leiden.nl/3d-printen).
-
 ## Inhoud
 
 1. De takken van de kerstboom
