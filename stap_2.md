@@ -1,6 +1,6 @@
 # De stam van de kerstboom
 
-Laten we eerst zorgen dat je je project niet kwijt raakt. Geef je project een naam. Bijvoorbeeld kerstboom. Vul die naam in in het vak achter Project Name (projectnaam).
+Laten we eerst zorgen dat je je project niet kwijt raakt. Geef je project een naam, bijvoorbeeld kerstboom. Vul die naam in in het vak achter **Project Name** (projectnaam).
 
 ![projectnaam](images/projectnaam.png)
 
@@ -15,20 +15,36 @@ Tijd om de kerstboom een stam te geven. Sleep uit de 3D Object groep een `cylind
 
 ![cylinder](images/cylinder.png)
 
-Druk op **Render**. Er verschijnt een cirkel aan de onderkant van de onderste takken. Als je het voorbeeld wat kantelt, zie je dat het inderdaad een cilinder is, maar dat deze niet de goede kant uit wijst voor een boomstam.\
+Druk op **Render**.
+
+![cylinder-resultaat](images/cylinder-resultaat.png)
+
+Er verschijnt een cirkel aan de onderkant van de onderste takken. Als je het voorbeeld wat kantelt, zie je dat het inderdaad een cilinder is, maar dat deze niet de goede kant uit wijst voor een boomstam.\
 We moeten de boomstam eerst draaien. Sleep daarvoor uit de Transforms groep een `rotate` (roteer of draai) blok en klik deze op je `cylinder` blok. Stel de X van de `rotate` in op 90 graden; de Y en Z blijven 0 graden.
 
 ![rotate](images/rotate.png)
 
-Druk op **Render**. De stam zit nu voor de helft in de onderste takken. Dat kunnen we oplossen met een `translate` blok. Klik deze op het `rotate` blok en stel Y in op -5.
+Druk op **Render**.
+
+![rotate-resultaat](images/rotate-resultaat.png)
+
+De stam zit nu voor de helft in de onderste takken. Dat kunnen we oplossen met een `translate` blok. Klik deze op het `rotate` blok en stel Y in op -5.
 
 ![translate](images/translate2.png)
 
-Druk op **Render**. Als laatste gebruiken we nog een `color` blok om de stam een goede kleur te geven.
+Druk op **Render**.
+
+![translate-resultaat](images/translate2-resultaat.png)
+
+Als laatste gebruiken we nog een `color` blok om de stam een goede kleur te geven.
 
 ![color](images/color2.png)
 
-Druk op **Render**. Je hebt nu als alles goed gegaan is een kerstboom met een nette stam eronder.\
+Druk op **Render**.
+
+![color-resultaat](images/color2-resultaat.png)
+
+Je hebt nu als alles goed gegaan is een kerstboom met een nette stam eronder.\
 Vergeet niet je project op te slaan!
 
 [De volgende stap >>](stap_3.md)
