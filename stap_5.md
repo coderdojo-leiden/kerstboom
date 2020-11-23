@@ -26,8 +26,8 @@ Omdat we meer ballen aan de kerstboom willen hangen die in paren voorkomen, gaan
 ![union](images/union3.png)
 
 Kopieer het `union` blok met de twee ballen en verander in de kopie de X in -5 (eerste bal) respectievelijk 5 (tweede bal) en de Y in 17 (beide ballen).\
-Kopieer het `union` blok met de twee ballen nog een keer en verander in de kopie de X nu in -3 en 3 en de Y in 27.\
-Gebruik nog een `color` blok om de drie paar ballen een mooie kleur te geven.
+Kopieer het `union` blok met de twee ballen nog een keer en verander in de kopie de X nu in -3 (eerste) en 3 (tweede) en de Y in 27.\
+Gebruik ook nog een `color` blok om de drie paar ballen een mooie kleur te geven.
 
 ![drie-paar-ballen](images/drie-paar-ballen.png)
 
