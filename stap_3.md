@@ -2,7 +2,7 @@
 
 Om je kerstboom goed door een 3D printer te kunnen laten printen, kan de onderkant het beste vlak zijn. Als je je kerstboom een beetje kantelt, dan zie je dat de achterkant van de stam lager zit dan de takken. Dat deel van de stam moeten we daarom wissen. Daarvoor gaan we het `difference` (verschil) blok uit de Transforms groep gebruiken.
 
-Voor het te wissen deel gebruiken we een `cube` (kubus, of eigenlijk rechthoek) blok uit de 3D Objects groep. Sleep deze naar je werkveld. Stel X in op 40, Y op 60 en Z op 10. Maak de rechthoek ook centered.
+Voor het te wissen deel gebruiken we een `cube` (kubus) blok uit de 3D Shapes groep. Sleep deze naar je werkveld. Stel X in op 40, Y op 60 en Z op 10. Maak de rechthoek ook centered.
 
 ![cube](images/cube.png)
 
@@ -29,7 +29,9 @@ Pak nu een `difference` blok erbij. Klik het `union` blok met de hele kerstboom 
 Druk op **Render**.\
 De kerstboom ziet er weer net zo uit als eerst, maar als je je kerstboom weer een beetje kantelt, dan zie je nu dat de achterste helft van de stam is verdwenen.
 
-Nu zou je een eerste versie van je kerstboom kunnen printen op een 3D printer. Daarvoor druk je op de knop **Generate STL** (genereer STL). Eventueel kies je eerst uit het lijstje links van deze knop het juiste bestandstype voor de 3D printer die je gaat gebruiken. Sla het bestand op op je computer en stuur het vervolgens naar de 3D printer.
+## 3D printen
+
+Nu zou je een eerste versie van je kerstboom kunnen printen op een 3D printer. Daarvoor druk je rechtsonder in het scherm op de knop **Generate STL** (genereer STL). Eventueel kies je eerst uit het lijstje links van deze knop het juiste bestandstype voor de 3D printer die je gaat gebruiken. Sla het bestand op op je computer en stuur het vervolgens naar de 3D printer.
 
 [De volgende stap >>](stap_4.md)
 

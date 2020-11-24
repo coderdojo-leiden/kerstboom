@@ -11,7 +11,9 @@ Sla nu je project op door op **Project** te klikken en dan **Save Blocks to your
 Sla nu het bestand met de naam kerstboom.xml op. Als je later verder wilt gaan met je ontwerp, dan kies je **Load Blocks from your Computer** (laad blokken van je computer) uit het **Project** menu en kies je het bestand met de meest recente versie van je project.\
 Vergeet niet je project regelmatig op te slaan. Dan kun je altijd terug naar een vorige versie en kun je op ieder moment stoppen.
 
-Tijd om de kerstboom een stam te geven. Sleep uit de 3D Object groep een `cylinder` (cilinder) blok naar het werkveld. Stel radius1 (straal 1) in op 2 en height in op 10. Zoals je ziet wordt radius2 automatisch 2. Dat komt doordat het slotje gesloten is. Als het slotje open is, dan kun je radius1 en radius2 verschillende waarden geven. Verander not centered (niet gecentreerd) ook nog even in centered.
+## De stam toevoegen
+
+Tijd om de kerstboom een stam te geven. Sleep uit de 3D Shapes groep een `cylinder` (cilinder) blok naar het werkveld. Stel radius1 (straal 1) in op 2 en height in op 10. Zoals je ziet wordt radius2 automatisch 2. Dat komt doordat het slotje gesloten is. Als het slotje open is, dan kun je radius1 en radius2 verschillende waarden geven. Verander not centered (niet gecentreerd) ook nog even in centered.
 
 ![cylinder](images/cylinder.png)
 
@@ -28,7 +30,7 @@ Druk op **Render**.
 
 ![rotate-resultaat](images/rotate-resultaat.png)
 
-De stam zit nu voor de helft in de onderste takken. Dat kunnen we oplossen met een `translate` blok. Klik deze op het `rotate` blok en stel Y in op -5.
+De stam is nu voor de helft verborgen door de onderste takken. Dat kunnen we oplossen met een `translate` blok. Klik deze op het `rotate` blok en stel Y in op -5.
 
 ![translate](images/translate2.png)
 

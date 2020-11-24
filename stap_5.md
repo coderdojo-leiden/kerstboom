@@ -1,6 +1,6 @@
 # Hang ballen aan de kerstboom
 
-Wat is een kerstboom zonder ballen? We gaan ballen aan de kerstboom toevoegen door gebruik te maken van het `sphere` (bol) blok uit de 3D Objects groep. Sleep deze naar het werkveld en stel de radius (straal) in op 1.5
+Wat is een kerstboom zonder ballen? We gaan ballen aan de kerstboom toevoegen door gebruik te maken van het `sphere` (bol) blok uit de 3D Shapes groep. Sleep deze naar het werkveld en stel de radius (straal) in op 1.5.
 
 ![sphere](images/sphere.png)
 
@@ -26,7 +26,7 @@ Omdat we meer ballen aan de kerstboom willen hangen die in paren voorkomen, gaan
 ![union](images/union3.png)
 
 Kopieer het `union` blok met de twee ballen en verander in de kopie de X in -5 (eerste bal) respectievelijk 5 (tweede bal) en de Y in 17 (beide ballen).\
-Kopieer het `union` blok met de twee ballen nog een keer en verander in de kopie de X nu in -3 (eerste) en 3 (tweede) en de Y in 27.\
+Kopieer het `union` blok met de twee ballen nog een keer en verander in deze kopie de X in -3 (eerste) en 3 (tweede) en de Y in 27.\
 Gebruik ook nog een `color` blok om de drie paar ballen een mooie kleur te geven.
 
 ![drie-paar-ballen](images/drie-paar-ballen.png)
@@ -36,7 +36,8 @@ Druk op **Render**.
 ![drie-paar-ballen-resultaat](images/drie-paar-ballen-resultaat.png)
 
 Voeg als laatste het `color` blok met alle ballen toe aan het `union` blok van je kerstboom.\
-En vergeet niet je project op te slaan!
+En vergeet niet je project op te slaan!\
+En stuur je ontwerp naar een 3D printer, als je er tevreden over bent (maar lees ook nog even de volgende stap, want je kerstboom kan vast nog mooier).
 
 [De volgende stap >>](stap_6.md)
 

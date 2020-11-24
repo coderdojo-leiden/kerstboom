@@ -6,6 +6,8 @@ Aan de linkerkant van het scherm vind je de groepen met blokken waarmee je aller
 In het midden vind je het werkveld waar je blokken naar toe sleept om 3D objecten te bouwen. Net zoals in Scratch klik je blokken aan elkaar om je programma's te maken.\
 Aan de rechterkant vind je een voorbeeld van hoe je 3D object eruit gaat zien. Je ziet hier ook de drie assen van een 3D ruimte: de X-as (rood), de Y-as (groen) en de Z-as (blauw). Klik op de knop **Render** als je je code hebt veranderd; dan wordt je 3D object opnieuw getekend.
 
+## De eerste takken
+
 De takken van de kerstboom (met naalden, uiteraard) gaan we maken met driehoeken. In de groep Experimental vind je drie soorten driehoeken. Wij gaan een `triangle-SSS` gebruiken. Dat is een driehoek waarvan je de lengte van iedere zijde opgeeft. Sleep een `triangle-SSS` blok naar het werkveld. Geef side 1 (zijde 1), side 2 en side 3 alledrie de waarde 30 en height (hoogte) de waarde 2.
 
 ![triangle-SSS](images/triangle-SSS.png)
@@ -38,6 +40,8 @@ Druk op **Render**.
 ![color-resultaat](images/color-resultaat.png)
 
 De driehoek zou nu de door jouw gekozen kleur moeten hebben.
+
+## Meer takken
 
 Tijd voor wat meer takken. Klik met de rechtermuisknop op je `translate` blok en kies Duplicate (kopieer). Je krijgt nu een tweede `translate` blok met daarin ook een `triangle-SSS` blok. Druk op **Render**.\
 Je nieuwe driehoek wordt over je eerste driehoek getekend, maar heeft niet de juiste grootte, positie en kleur! Maak de nieuwe driehoek eerst wat kleiner, bijvoorbeeld door alle zijden 20 te maken. Druk op **Render**.\
